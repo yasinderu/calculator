@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To run it on your loca machine clone into the repo then, type
+To run it on your local machine clone into the repo then, type
 
 ### `npm install && npm start`
 
